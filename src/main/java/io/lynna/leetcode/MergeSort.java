@@ -44,7 +44,7 @@ class MergeSort {
     public static void main(String args[]){
         int[] test = {6,3,7,2,9,8,1,15};
 
-        MergeSort(test);
+        //MergeSort(test);
         System.out.println(test);
 
     }
